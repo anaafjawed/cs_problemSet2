@@ -1,0 +1,15 @@
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\problemSet2.csproj.AssemblyReference.cache
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\problemSet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\problemSet2.AssemblyInfoInputs.cache
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\problemSet2.AssemblyInfo.cs
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\problemSet2.csproj.CoreCompileInputs.cache
+C:\Users\anaaf.javed\problemSet2\bin\Debug\net6.0\problemSet2.exe
+C:\Users\anaaf.javed\problemSet2\bin\Debug\net6.0\problemSet2.deps.json
+C:\Users\anaaf.javed\problemSet2\bin\Debug\net6.0\problemSet2.runtimeconfig.json
+C:\Users\anaaf.javed\problemSet2\bin\Debug\net6.0\problemSet2.dll
+C:\Users\anaaf.javed\problemSet2\bin\Debug\net6.0\problemSet2.pdb
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\problemSet2.dll
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\refint\problemSet2.dll
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\problemSet2.pdb
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\problemSet2.genruntimeconfig.cache
+C:\Users\anaaf.javed\problemSet2\obj\Debug\net6.0\ref\problemSet2.dll
