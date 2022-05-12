@@ -28,7 +28,9 @@ namespace ProblemSet2
                int num = int.Parse(line[2]);
 
             int temp = toDecimal(source , num);
+            
             int res = decimalToTarget(target, temp);
+
             System.Console.WriteLine(res);
             
             }
@@ -36,7 +38,7 @@ namespace ProblemSet2
         
         }
 
-
+        // first convert source system to decimal system
         public static int toDecimal(int source,  int num) {
 
             string str = num.ToString();
@@ -52,6 +54,7 @@ namespace ProblemSet2
             return res;
         }
 
+        // converting the result from decimal to target system 
         public static int decimalToTarget(int target,  int decimalVersion) {
         
             Stack<int> res = new Stack<int>();
@@ -65,7 +68,7 @@ namespace ProblemSet2
             }
 
             string outp = "";
-            
+
            while(res.Count() > 0) {
                 int pop = res.Pop();
                 outp = outp + pop.ToString();
