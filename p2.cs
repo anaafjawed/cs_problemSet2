@@ -9,10 +9,11 @@ namespace ProblemSet2
             solve();
         }
 
+        // Number System
         public static void solve()
         {
 
-            string file = @"C:\Users\anaaf.javed\ProblemSet2\number.txt";
+            string file = @"C:\Users\anaaf.javed\problemSet2\p2.txt";
 
             string[] lines = File.ReadAllLines(file);
             int t = 0;
@@ -27,7 +28,7 @@ namespace ProblemSet2
                int target = int.Parse(line[1]);
                int num = int.Parse(line[2]);
 
-            int temp = toDecimal(source , num);
+                int temp = toDecimal(source , num);
             
             int res = decimalToTarget(target, temp);
 

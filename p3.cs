@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProblemSet2
+namespace problemSet2
 {
     class P3
     {
-
         public static void solve()
         {
 
 
-            string file = @"C:\Users\anaaf.javed\ProblemSet2\shopping.txt";
+            string file = @"C:\Users\anaaf.javed\ProblemSet2\p3.txt";
 
             string[] lines = File.ReadAllLines(file);
             int g = 0;
@@ -101,5 +100,6 @@ namespace ProblemSet2
 
             }
         }
+
     }
 }

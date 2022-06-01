@@ -1,22 +1,19 @@
 
 using System.Collections.Generic;
-namespace ProblemSet2
+namespace problemSet2
 {
     class P5
     {
-        public static void Main(string[] args)
-        {
-            solve();
-        }
 
-        public static void solve()
+        // Snowflakes 
+        public void solve()
         {
 
             string file = @"C:\Users\anaaf.javed\ProblemSet2\snowflakes.txt";
 
             string[] lines = File.ReadAllLines(file);
             
-            int test = int.Parse(lines[0]);
+            int test = Int32.Parse(lines[0]);
             int i = 1;
             for (int t = 0; t < test; t++)
             {

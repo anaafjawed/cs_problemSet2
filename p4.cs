@@ -1,7 +1,7 @@
 
 using System;
 using System.Collections;
-namespace ProblemSet2
+namespace problemSet2
 {
     class P4
     {
@@ -10,6 +10,7 @@ namespace ProblemSet2
             solve();
         }
 
+        // Virtual Friends
         public static void solve()
         {
 

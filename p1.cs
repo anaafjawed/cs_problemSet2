@@ -9,13 +9,14 @@ namespace ProblemSet2
             solve();
         }
 
+        // OLD Data Problem
         public static void solve()
         {
 
-            string file = @"C:\Users\anaaf.javed\ProblemSet2\olddata.txt";
+            string file = @"C:\Users\anaaf.javed\ProblemSet2\p1.txt";
 
             string[] lines = File.ReadAllLines(file);
-            
+
             int id_Count = 0;
 
             for (int i = 0; i < lines.Length; i++)
